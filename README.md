@@ -1,6 +1,6 @@
-# Projection
+# APP_NAME
 
-Projection is a software project control and tracking system for Zendev tech. 
+DESCRIPTION
 
 ## Scripts
 
